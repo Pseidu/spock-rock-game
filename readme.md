@@ -8,6 +8,8 @@ Lo que haremos es que cada vez que ganemos, activaremos una animación de "caíd
 El módulo que se encarga de la caida de confetti está en: 
 [Confetti.js Library](https://www.cssscript.com/confetti-falling-animation/)
 
+(¡Atención! Acabo de comprobar que la versión actual -febrero 2023- no funciona tal cual lo he hecho aquí.)
+
 ## Uso de módulos
 [Mozilla - ES Modules](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Guide/Modules)
 
